@@ -1,1 +1,1 @@
-# Cygnus-Test-Pipeline
+# Cygnus Test Pipeline
