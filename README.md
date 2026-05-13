@@ -6,6 +6,9 @@ This pipeline is designed for NGS data analysis.
 
 - **BRCA_test2.ipynb**  
   *Jupyter Notebook containing the complete pipeline for NGS data analysis.*
+
+- **NIPT_test.ipynb**  
+  *Jupyter Notebook containing the pipeline for NIPT data analysis.*
   
 ## Files and Outputs
 
