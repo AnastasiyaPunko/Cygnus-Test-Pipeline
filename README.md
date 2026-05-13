@@ -15,3 +15,6 @@ This pipeline is designed for NGS data analysis.
 - **results/BRCA_\***  
   *Annotated CSV files generated after running ANNOVAR for variant annotation.*
 
+- **results/vcf/BRCA_\***  
+  *VCF files*
+
