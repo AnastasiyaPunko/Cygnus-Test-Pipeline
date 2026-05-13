@@ -12,6 +12,6 @@ This pipeline is designed for NGS data analysis.
 - **BRCA_sort.bam** & **BRCA_sort.bam.bai**  
   *Sorted BAM file with its index.*
 
-- **results/BRCA_*\***  
+- **results/BRCA_\***  
   *Annotated CSV files generated after running ANNOVAR for variant annotation.*
 
